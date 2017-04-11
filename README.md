@@ -8,6 +8,8 @@ Open PNG file
 Create new layer called "color" and choose option "background color" 
 * use cmd+shft+n to create new layer
 
+![alt tag](GIMP-change-icon-color/img/new layer.png)
+
 Fill new color layer with desired icon color
 * go to Color > colorify > custom color
 
