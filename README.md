@@ -44,3 +44,5 @@ check options: color, stack scans, remove background
  click ok and moce new icon to delete the old one below it
 
 
+Props to Ben Ramey and his tutorial on changing PNG icon colors 
+http://www.benramey.com/2012/03/15/change-the-color-of-an-icon-with-gimp/
