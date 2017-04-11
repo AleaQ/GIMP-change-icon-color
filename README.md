@@ -8,7 +8,7 @@ Open PNG file
 Create new layer called "color" and choose option "background color" 
 * use cmd+shft+n to create new layer
 
-![alt tag](GIMP-change-icon-color/img/new layer.png)
+![alt tag](/img/new-layer.png)
 
 Fill new color layer with desired icon color
 * go to Color > colorify > custom color
@@ -16,12 +16,18 @@ Fill new color layer with desired icon color
 Create a new background color layer called "mask"
 * move mask layer below the PNG icon layer
 
+![alt tag](/img/mask-layer.png)
+
 Select layer with imported icon and choose Color > Desaturate > lightness
 * on same layer choose Color > invert
+
+![alt tag](/img/desaturate.png)
 
 Right click on icon layer and choose merge down
 
 Select new mask layer and choose Colors > curves - drag middle of line straight to top
+
+![alt tag](/img/adjust-color-curve.png)
 
 Right click on color layer and choose: add layer mask > check black full transparency > check invert mask
 
